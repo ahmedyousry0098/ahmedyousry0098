@@ -1,6 +1,6 @@
 # 💫 About Me
 
-💻 **Backend-focused engineer** specialized in **Node.js**, **Express.js**, **NestJS**, and database technologies including **MongoDB**, **MySQL**, **PostgreSQL**, **Redis**, **Sequelize**, and **Mongoose**. I build scalable backend systems and RESTful APIs with clean architecture and strong engineering practices.
+💻 **Backend-focused engineer** specialized in **Node.js**, **Express.js**, **NestJS**, and database technologies including **MongoDB**, **MySQL**, **PostgreSQL**, **Redis**, **elasticsearch**, **prisma**, and **Mongoose**. I build scalable backend systems and RESTful APIs with clean architecture and strong engineering practices.
 
 ⚙️ I also have working knowledge of **Golang** and **Java**, which helps me adapt to different backend ecosystems and patterns.
 
@@ -39,17 +39,14 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### **ORM / ODM**
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### **Messaging & Realtime**
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
 
 ### **DevOps & Cloud**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -57,7 +54,11 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-### **Frontend (Awareness Level)**
+### **Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -69,16 +70,4 @@
 
 ---
 
-# 📊 GitHub Stats
-
-> ⚠️ Replace `AhmedYousry` with your actual GitHub username.
-
-![](https://github-readme-stats.vercel.app/api?username=AhmedYousry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=AhmedYousry&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYousry&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🧮 Profile Visits
-[![](https://visitcount.itsvg.in/api?id=AhmedYousry&icon=0&color=0)](https://visitcount.itsvg.in)
 
