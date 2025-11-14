@@ -17,6 +17,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedyousry098@gmail.com)
 
 ---
+###
+<h2 align="left"> 🛠 Skills</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,go,java,express,nestjs,rabbitmq,redis,mongodb,mysql,postgres,sqlite,elasticsearch,prisma,docker,kubernetes,linux,ansible,aws,nginx,git,github,gitlab,html,css,tailwind,bootstrap,vue,react,angular,bash,vscode,postman,graphql,socketio&perline=15)](https://skillicons.dev)
 
 ---
